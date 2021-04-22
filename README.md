@@ -8,4 +8,4 @@
 
 🎮 Apaixonado por games e programação
 
-⌨ HTML, CSS, Javascript
+⌨ HTML, CSS, Javascript, node.js, mysql, express, sequelize 
