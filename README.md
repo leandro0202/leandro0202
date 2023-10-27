@@ -1,8 +1,8 @@
 ###  olá sou o Leandro 👋
 
-🙇🏼‍♂️ Filosofia - Não sei agora, mas posso aprender.
-
 📂 atualmente estou focado em aprender **C#**
+
+🙇🏼‍♂️ Filosofia - Não sei agora, mas posso aprender.
 
 🚀 Buscando evoluir e crescer!
 
