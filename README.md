@@ -1,11 +1,11 @@
 ###  olá sou o Leandro 👋
 
+🙇🏼‍♂️ Filosofia - Não sei agora, mas posso aprender.
 
-
-📂 atualmente estou focado em aprender **javascript!**
+📂 atualmente estou focado em aprender **C#**
 
 🚀 Buscando evoluir e crescer!
 
 🎮 Apaixonado por games e programação
 
-⌨ HTML, CSS, Javascript, node.js, mysql, express, sequelize 
+⌨ HTML, CSS, Javascript, c#; 
