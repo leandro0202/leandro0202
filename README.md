@@ -8,4 +8,4 @@
 
 🎮 Apaixonado por games e programação
 
-⌨ HTML, CSS, Javascript, c#; 
+⌨ HTML, CSS, Javascript, C#; 
